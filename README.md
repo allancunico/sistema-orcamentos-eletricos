@@ -54,5 +54,3 @@ Depois:
 
 ## 📸 Screenshots e Demonstração
 
-*(adicione prints aqui — isso aumenta MUITO o impacto no portfólio)*
-
