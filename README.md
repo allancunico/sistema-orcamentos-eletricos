@@ -52,5 +52,5 @@ Depois:
 
 ---
 
-## 📸 Screenshots e Demonstração
+## Screenshots e Demonstração
 
