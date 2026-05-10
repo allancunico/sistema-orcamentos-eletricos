@@ -1,0 +1,18 @@
+# .NET
+backend/bin/
+backend/obj/
+backend/*.user
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Ambiente
+.env
+.env.local
+appsettings.Development.json
+.vs/
+
+# Sistema
+.DS_Store
+Thumbs.db
